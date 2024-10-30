@@ -2,7 +2,7 @@
     "id": "SAPETDAlerts",
     "title": "SAP ETD",
     "publisher": "SAP",
-    "descriptionMarkdown": "SAP ETD description.",
+    "descriptionMarkdown": "[OData API Reference](https://api.sap.com/api/AlertRetrieval/overview)",
     "graphQueries": [
         {
             "metricName": "Total data received",
@@ -87,7 +87,7 @@
         },
         {
             "title": "",
-            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://<insert-link-here>). \n\n1. Take a note of the **url** (Audit Retrieval API URL), **uaa.url** (User Account and Authentication Server url) and the associated **uaa.clientid**.\n2. Add the **uaa.clientsecret** as a secret in the Key Vault created in Step 1 and take note of the **name** of the secret."
+            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://<insert-link-here>!!!GET Service key descriptioon!!!). \n\n1. Take a note of the **url** (Audit Retrieval API URL), **uaa.url** (User Account and Authentication Server url) and the associated **uaa.clientid**.\n2. Add the **uaa.clientsecret** as a secret in the Key Vault created in Step 1 and take note of the **name** of the secret."
         },
         {
             "title": "",
