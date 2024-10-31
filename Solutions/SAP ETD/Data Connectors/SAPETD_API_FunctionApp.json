@@ -2,7 +2,7 @@
     "id": "SAPETDAlerts",
     "title": "SAP Enterprise Threat Detection, cloud edition",
     "publisher": "SAP",
-    "descriptionMarkdown": "[API Decs](Link)!!SAP ETD description.",
+    "descriptionMarkdown": "[API to retrieve Alerts from SAP Enterprie Threat Detection, cloud edition](https://api.sap.com/package/SAPEnterpriseThreatDetectionCloud/odatav4)",
     "graphQueries": [
         {
             "metricName": "Total data received",
