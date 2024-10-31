@@ -1,8 +1,8 @@
 {
     "id": "SAPETDAlerts",
-    "title": "SAP Enterprise Threat Detection",
+    "title": "SAP Enterprise Threat Detection, cloud edition",
     "publisher": "SAP",
-    "descriptionMarkdown": "!!SAP ETD description.",
+    "descriptionMarkdown": "[API Decs](Link)!!SAP ETD description.",
     "graphQueries": [
         {
             "metricName": "Total data received",
