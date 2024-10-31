@@ -3,7 +3,7 @@
     "Author": "SAP",
     "Logo": "<img src=\"https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Logos/<your logo>.svg\" width=\"75px\" height=\"75px\">",
     "Logo": "<img src=\"https://raw.githubusercontent.com/Azure/Azure-Sentinel/Solutions/Logo/SAP_P_sol_sign.jpg\" width=\"75px\" height=\"75px\">",
-    "Description": "SAP Enterprise Threat Detection, cloud edition is an application that gives transparency in to suspicious (user) behavior and anomalies in ",
+    "Description": "SAP Enterprise Threat Detection, cloud edition is an application that gives transparency in to suspicious (user) behavior and anomalies in SAP business applications to identify and stop security breaches in real time. This edition uses highly efficient and automated processes based on SAP HANA® database technology and machine learning to track hacker activity using SAP's predefined and easy customizable attack paths. The solution runs patterns and applies algorithms and statistical analysis to detect meaningful anomalies related to suspicious (user) events, correlates events, over time, via attributes, via different log types, with meta data and other alerts, and detects anomalies in user behavior that indicate potential threats and fraud within SAP applications. SAP Enterprise Threat Detection, cloud edition is based on SAP Business Technology Platform and is combinable with a managed-cyber-security- ",
     "WorkbookDescription": [],
     "Workbooks": [],
     "Analytic Rules": [],
