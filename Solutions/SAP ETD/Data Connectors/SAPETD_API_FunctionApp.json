@@ -87,7 +87,7 @@
         },
         {
             "title": "",
-            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://<insert-link-here>). \n\n1. Take a note of the **url** (Audit Retrieval API URL), **uaa.url** (User Account and Authentication Server url) and the associated **uaa.clientid**.\n2. Add the **uaa.clientsecret** as a secret in the Key Vault created in Step 1 and take note of the **name** of the secret."
+            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://help.sap.com/docs/SAP_ENTERPRISE_THREAT_DETECTION_CLOUD_EDITION/61b4ae57d25948a5a9e5d6751d3efbda/81996287df9f4037b315dc331676f555.html). \n\n1. Take a note of the **url** (Audit Retrieval API URL), **uaa.url** (User Account and Authentication Server url) and the associated **uaa.clientid**.\n2. Add the **uaa.clientsecret** as a secret in the Key Vault created in Step 1 and take note of the **name** of the secret."
         },
         {
             "title": "",
