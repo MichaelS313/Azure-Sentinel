@@ -1,11 +1,11 @@
 {
 	"publisherId": "sapetd",
 	"offerId": "sapetd-alerts",
-	"firstPublishDate": "2024-10-21",
-	"lastPublishDate": "2024-10-21",
+	"firstPublishDate": "2024-10-31",
+	"lastPublishDate": "2024-10-31",
 	"providers": ["SAP"],
 	"categories": {
-		"domains" : ["Security - Threat Protection","Identity"],
+		"domains" : ["Security - Threat Protection","Identity","SAP"],
 		"verticals": []
 	},
 	"support": {
