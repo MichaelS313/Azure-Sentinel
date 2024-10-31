@@ -71,7 +71,7 @@
                 "description": "A Key Vault to hold SAP ETD client secret [See the documentation to learn more about Key Vault](https://docs.microsoft.com/azure/key-vault/general/overview)."
             },
             {
-                "name": "SAP ETD service key",
+                "name": "SAP Enterprise Threat Detection service key",
                 "description": "Connectivity and permissions to retrieve SAP ETD alerts via the API."
             }
         ]
