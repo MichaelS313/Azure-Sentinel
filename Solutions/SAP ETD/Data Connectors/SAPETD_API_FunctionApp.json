@@ -87,7 +87,7 @@
         },
         {
             "title": "",
-            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://help.sap.com/docs/SAP_ENTERPRISE_THREAT_DETECTION_CLOUD_EDITION/61b4ae57d25948a5a9e5d6751d3efbda/81996287df9f4037b315dc331676f555.html). \n\n1. The resulting service key contains in the uaa section the sburl for getting the OAuth token. \n2 The url call looks like url/oauth/token?grant_type=client_credentials. The Authentication is of type 'Basic' with the Base64 encoded ClientID and clientsecret from the uaa section of the servicekey. \n2 The received token is then to be used for calling the data retrieval service url, shown at the begin of the service key. The url GET call looks like url//alerts/v1/Alerts plus query parameters."
+            "description": "**Step 2 - Configuration steps for the SAP ETD API**\n\nFollow the steps provided by SAP [see obtain client credentials for SAP ETD](https://help.sap.com/docs/SAP_ENTERPRISE_THREAT_DETECTION_CLOUD_EDITION/61b4ae57d25948a5a9e5d6751d3efbda/81996287df9f4037b315dc331676f555.html). \n\n1. The resulting service key contains in the uaa section the sburl for getting the OAuth token. \n\n2. The url call looks like url/oauth/token?grant_type=client_credentials. The Authentication is of type 'Basic' with the Base64 encoded ClientID and clientsecret from the uaa section of the servicekey. \n\n3 The received token is then to be used for calling the data retrieval service url, shown at the begin of the service key. The url GET call looks like url//alerts/v1/Alerts plus query parameters."
 
         },
         {
